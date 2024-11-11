@@ -1,1 +1,1 @@
-# Bedrock-Hub
+# Bedrock Hub
